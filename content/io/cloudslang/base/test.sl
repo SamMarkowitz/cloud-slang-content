@@ -1,3 +1,2 @@
 Some content.
-Some more.
-Even more.
+Now less.
